@@ -1,4 +1,4 @@
-<img src="./assets/github-profile-banner.png" alt="Luiz Mateus - Full Stack Developer" width="100%" />
+<img src="./assets/github-profile-banner.png.png" alt="Luiz Mateus - Full Stack Developer" width="100%" />
 
 <h1 align="center">Luiz Mateus Fortes dos Santos</h1>
 
