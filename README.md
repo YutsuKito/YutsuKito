@@ -14,7 +14,7 @@
   <a href="https://chronosguardian.com.br">
     <img src="https://img.shields.io/badge/Chronos%20Guardian-SaaS%20de%20Estudos-7B3FF2?style=for-the-badge" />
   </a>
-  <a href="mailto:xtremegamest@gmail.com">
+  <a href="mailto:contato@primetech.dev.br">
     <img src="https://img.shields.io/badge/Contato-Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -152,8 +152,8 @@ Alguns projetos públicos, estudos técnicos e experimentações:
 ## Contato
 
 <p>
-  <a href="mailto:xtremegamest@gmail.com">
-    <img src="https://img.shields.io/badge/Email-xtremegamest@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:contato@primetech.dev.br">
+    <img src="https://img.shields.io/badge/Email-contato%40primetech.dev.br-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://chronosguardian.com.br">
     <img src="https://img.shields.io/badge/Site-Chronos%20Guardian-7B3FF2?style=for-the-badge" />
