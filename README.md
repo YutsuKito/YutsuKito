@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Chronos%20Guardian-SaaS%20de%20Estudos-7B3FF2?style=for-the-badge" />
   </a>
   <a href="mailto:contato@primetech.dev.br">
-    <img src="https://img.shields.io/badge/Contato-Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Contato-Primetech-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -23,9 +23,11 @@
 
 ## Sobre mim
 
-Sou desenvolvedor Full Stack e estudante de Engenharia da Computação, com foco em sistemas corporativos, aplicações web, SaaS, automações e soluções orientadas a dados.
+Sou desenvolvedor Full Stack, formado em Análise e Desenvolvimento de Sistemas, técnico em Informática e atualmente estudante de Engenharia da Computação.
 
-Tenho experiência na construção de sistemas do zero, modelagem de banco de dados, desenvolvimento de APIs, criação de dashboards administrativos, fluxos de aprovação, integrações e interfaces web modernas.
+Também possuo formação em Engenharia de Software e Big Data, o que fortalece minha atuação em arquitetura de sistemas, modelagem de dados, desenvolvimento de aplicações escaláveis, dashboards e soluções orientadas a dados.
+
+Tenho foco em sistemas corporativos, aplicações web, SaaS, automações e soluções digitais. Minha experiência envolve construção de sistemas do zero, modelagem de banco de dados, desenvolvimento de APIs, criação de dashboards administrativos, fluxos de aprovação, integrações e interfaces web modernas.
 
 Atualmente trabalho e estudo principalmente com:
 
@@ -35,6 +37,16 @@ Atualmente trabalho e estudo principalmente com:
 * Dashboards, indicadores e visão gerencial
 * SaaS com IA, gamificação e produtividade
 * Documentação técnica e arquitetura de software
+
+---
+
+## Formação
+
+* Engenharia da Computação — em andamento
+* Análise e Desenvolvimento de Sistemas
+* Técnico em Informática
+* Pós-graduação em Engenharia de Software
+* Pós-graduação em Big Data
 
 ---
 
@@ -145,6 +157,7 @@ Alguns projetos públicos, estudos técnicos e experimentações:
 * Sistemas corporativos e dashboards gerenciais
 * Automações com IA e ferramentas de produtividade
 * Arquitetura Full Stack
+* Soluções orientadas a dados
 * Produtos digitais com foco em entrega real
 
 ---
